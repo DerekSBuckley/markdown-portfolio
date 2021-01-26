@@ -1,5 +1,2 @@
--:heart:
--:+1:
--:smile:
--:sparkles:
--:tada:
+-item
+-item
