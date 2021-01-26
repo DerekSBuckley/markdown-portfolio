@@ -1,1 +1,1 @@
-https://www.mariowiki.com/Super_Nintendo_World
+[text](https://www.mariowiki.com/Super_Nintendo_World)
